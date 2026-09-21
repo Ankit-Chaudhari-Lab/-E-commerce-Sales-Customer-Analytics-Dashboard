@@ -101,14 +101,14 @@ The main objective of this project is to transform raw e-commerce data into mean
 
 ## 📸 Dashboard Preview
 
-### Page 1 — Sales Overview
-![Dashboard]E-Commerce Sales Analysis_page-0001.jpg
+### Page 1 — Executive Sales Overview
+![Executive Sales Overview](screenshot/0001.png)
 
-### Page 2 — Customer Analysis
-![Customer Analysis](screenshots/E-Commerce Sales Analysis_page-0002.jpg)
+### Page 2 — Product & Sales Analysis
+![Product & Sales Analysis](screenshots/0002.png)
 
-### Page 3 — Delivery Analysis
-![Delivery Analysis](E-Commerce Sales Analysis_page-0003.jpg)
+### Page 3 — Customer & Satisfaction Analysis
+![Customer & Satisfaction Analysis](0003.png)
 
-### Page 4 — Discount Analysis
-![Discount Analysis](screenshots/E-Commerce Sales Analysis_page-0004.jpg)
+### Page 4 — Discount & Delivery Analysis
+![Discount & Delivery Analysis](screenshots/0004.png)
