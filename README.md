@@ -6,6 +6,28 @@ This project focuses on analyzing e-commerce sales data to identify sales trends
 
 The project follows an end-to-end data analytics workflow:
 
+## 💼 Business Problem
+
+An e-commerce business generates a large amount of data related to orders, products, sales, discounts, customer ratings, and delivery performance. However, raw data alone does not provide clear insights for making business decisions.
+
+The business needs to understand:
+
+* Which product categories generate the most sales?
+* How are sales changing over time?
+* Which products or categories perform well?
+* How are customers rating their purchases?
+* Does delivery time have an impact on customer ratings?
+* How are discounts distributed across products and categories?
+* Are higher discounts associated with changes in sales or customer ratings?
+* What areas require attention to improve overall business performance?
+
+### 🎯 Business Objective
+
+The objective of this project is to **clean and analyze e-commerce data and develop an interactive Power BI dashboard** that helps stakeholders monitor key performance indicators, identify trends and patterns, and gain actionable insights into sales, customer ratings, delivery performance, and discount strategies.
+
+The dashboard provides a centralized view of the data, allowing users to interact with different categories, time periods, and metrics to support data-driven business decisions.
+
+
 **Data Cleaning → Data Analysis → Data Visualization → Power BI Dashboard → Business Insights**
 
 ## 🛠️ Tools & Technologies
