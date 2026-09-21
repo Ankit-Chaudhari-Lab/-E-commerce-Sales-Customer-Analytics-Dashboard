@@ -91,16 +91,6 @@ The analysis was used to identify:
 * Discount distribution
 * Relationships between delivery time and customer ratings
 
-## 📂 Project Files
-
-| File/Folder    | Description               |
-| -------------- | ------------------------- |
-| `data/`        | Dataset used for analysis |
-| `powerbi/`     | Power BI dashboard file   |
-| `screenshots/` | Dashboard screenshots     |
-| `report/`      | Project report            |
-| `README.md`    | Project documentation     |
-
 ## 🎯 Objective
 
 The main objective of this project is to transform raw e-commerce data into meaningful insights through data cleaning, analysis, and interactive Power BI visualization.
