@@ -102,7 +102,7 @@ The main objective of this project is to transform raw e-commerce data into mean
 ## 📸 Dashboard Preview
 
 ### Page 1 — Sales Overview
-![Sales Overview](screenshots/E-Commerce Sales Analysis_page-0001.jpg)
+![Dashboard]E-Commerce Sales Analysis_page-0001.jpg
 
 ### Page 2 — Customer Analysis
 ![Customer Analysis](screenshots/E-Commerce Sales Analysis_page-0002.jpg)
