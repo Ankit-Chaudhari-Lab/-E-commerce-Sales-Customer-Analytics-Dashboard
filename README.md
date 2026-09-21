@@ -98,3 +98,17 @@ The main objective of this project is to transform raw e-commerce data into mean
 ## 👤 Skills Demonstrated
 
 **Data Cleaning • Data Analysis • Power BI • Power Query • DAX • Data Visualization • EDA • Business Insights**
+
+## 📸 Dashboard Preview
+
+### Page 1 — Sales Overview
+![Sales Overview](screenshots/E-Commerce Sales Analysis_page-0001.jpg)
+
+### Page 2 — Customer Analysis
+![Customer Analysis](screenshots/E-Commerce Sales Analysis_page-0002.jpg)
+
+### Page 3 — Delivery Analysis
+![Delivery Analysis](E-Commerce Sales Analysis_page-0003.jpg)
+
+### Page 4 — Discount Analysis
+![Discount Analysis](screenshots/E-Commerce Sales Analysis_page-0004.jpg)
